@@ -1,0 +1,3 @@
+output file
+line 1:writing to the file in c++
+line 2:file handling is essential for data manipulation

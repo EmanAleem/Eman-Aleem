@@ -1,0 +1,3 @@
+user'John' logged in.
+user'Jane'acessed the dashboard.
+user'Bob'performed a file operation.
